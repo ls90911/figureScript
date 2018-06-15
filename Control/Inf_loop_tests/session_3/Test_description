@@ -1,0 +1,15 @@
+
+
+During initial test, maybe phi drift over time
+
+f3 check possible delay, causing crash? maybe due to logging?
+
+Gate 1
+X 2229
+Y 263
+Z -1399
+
+Gate 2
+X -2557
+Y 323
+Z -110

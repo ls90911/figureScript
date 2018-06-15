@@ -1,0 +1,16 @@
+Multiple flights, first without optitrack heading,
+halfway during first few flights, gate position of gate 1 moved further backward.
+Last flights with optitrack heading.
+
+Gate positions
+
+G1
+X3377
+Y295
+Z-685
+
+G2
+X-2201
+Y300
+Z-451
+

@@ -1,0 +1,18 @@
+
+Observed failure modes
+
+-Overshoot after while in general -> find root cause!(check roll attitude before turn, maybe this has effect on turn) 
+-Analyse ststistics about turn errors
+-Missed turn (due to small gate problem, changed min_gate_ratio from 0.3 to 0.4)
+-Turn overshoot after a while, when predictive speed is used in AHRS -> check predicted speed
+- 
+
+Gate 1 pos
+X 2231
+Y 264
+Z -1144
+
+Gate 2 pos mm
+X -2520 
+Y 323
+Z -232
